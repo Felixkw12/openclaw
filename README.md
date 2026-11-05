@@ -1,0 +1,1 @@
+Screenshots for openclaw/openclaw#192776 (Opper provider proof). Images only.
